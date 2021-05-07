@@ -11,11 +11,18 @@ Area_type – describes the area
 
 Availability – when it can be possessed or when it is ready(categorical and time-series)
 Location – where it is located in Bengaluru
+
 Price – Value of the property in lakhs(INR)
+
 Size – in BHK or Bedroom (1-10 or more)
+
 Society – to which society it belongs
+
 Total_sqft – size of the property in sq.ft
+
 Bath – No. of bathrooms
+
 Balcony – No. of the balcony
+
 
 
