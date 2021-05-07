@@ -17,6 +17,8 @@ First step of this project is to pre-process the data.we will cover almost all d
 ![Remove_Outliers](https://user-images.githubusercontent.com/83052989/117435303-55b0f300-af4b-11eb-83e6-a6f55215f51a.jpg)                                                                                 
 Secondly, a model is built using sklearn,linear regression,decision tree and lasso using the dataset provided.                                                                                               
 Thirdly,a website is built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and When the user will click on the button of predict price python flask server will be called in order to retrieve the predicted price.
+![Untitled](https://user-images.githubusercontent.com/83052989/117439035-f43f5300-af4f-11eb-9718-2d6eff29aa2f.jpg)
+
 
 
 Technology and tools wise this project covers                                                           
