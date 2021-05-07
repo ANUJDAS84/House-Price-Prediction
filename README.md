@@ -8,7 +8,7 @@ Almost all data science concepts are covered which includes feature engineering,
 ![Website](https://user-images.githubusercontent.com/83052989/117424737-bc301400-af3f-11eb-90a4-00dfcfc7d1d0.jpg)
 
 
-##FEATURE                                                                                                   
+## FEATURE                                                                                                   
 Area_type – Describes the area.                                                                           
 Availability –When it can be possessed or when it is ready(categorical and time-series).
 Location – Where it is located in Bengaluru.                                                               
