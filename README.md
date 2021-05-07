@@ -14,8 +14,8 @@ Balcony – No. of the balcony.
 ![Website](https://user-images.githubusercontent.com/83052989/117424737-bc301400-af3f-11eb-90a4-00dfcfc7d1d0.jpg)
 
 First step of this project is to pre-process the data.we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.![Remove_Outlier](https://user-images.githubusercontent.com/83052989/117435290-521d6c00-af4b-11eb-8259-da90a87902bc.png)
-![Remove_Outliers](https://user-images.githubusercontent.com/83052989/117435303-55b0f300-af4b-11eb-83e6-a6f55215f51a.jpg)
-Secondly, a model is built using sklearn,linear regression,decision tree and lasso using the dataset provided.
+![Remove_Outliers](https://user-images.githubusercontent.com/83052989/117435303-55b0f300-af4b-11eb-83e6-a6f55215f51a.jpg)                                                                                 
+Secondly, a model is built using sklearn,linear regression,decision tree and lasso using the dataset provided.                                                                                               
 Thirdly,a website is built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and When the user will click on the button of predict price python flask server will be called in order to retrieve the predicted price.
 
 
