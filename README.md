@@ -16,13 +16,19 @@ Balcony – No. of the balcony.
 First step of this project is to pre-process the data.we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.![Remove_Outlier](https://user-images.githubusercontent.com/83052989/117435290-521d6c00-af4b-11eb-8259-da90a87902bc.png)
 ![Remove_Outliers](https://user-images.githubusercontent.com/83052989/117435303-55b0f300-af4b-11eb-83e6-a6f55215f51a.jpg)
                           
-Secondly, a model is built using sklearn and linear regression using the dataset provided.
-Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.
-In the final step of the project webiste is built using HTML,CSS and Javascript which allows user to enter the square feet area of home,bedrooms,etc. When the user will click on the button of predict price python flask server will be called in order to retrieve the predicted price.
+Secondly, a model is built using sklearn,linear regression,decision tree and lasso using the dataset provided.
 
-Almost all data science concepts are covered which includes feature engineering,outlier detection and removal, dimensionality reduction and Grid Search CV for hyperparameter tuning.
+Thirdly,a website is built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and When the user will click on the button of predict price python flask server will be called in order to retrieve the predicted price.
 
+Technology and tools wise this project covers,
 
+1.Python
+2.Numpy and Pandas for data cleaning
+3.Matplotlib for data visualization
+4.Sklearn for model building
+5.Jupyter notebook, visual studio code and pycharm as IDE
+6.Python flask for http server
+7.HTML/CSS/Javascript for UI
 
 ## FEATURE                                                                                                   
 Area_type – Describes the area.                                                                           
