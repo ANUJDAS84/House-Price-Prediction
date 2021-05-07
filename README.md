@@ -1,5 +1,17 @@
 # House-Price-Prediction
 ## INTRODUCTION
+Buying a home, espicially in a city like Bengaluru is very challenging.The chellenges is like it is not possible for a person to go every single place in the city and check the price of the home that is also dependent on various factors so to overcome this.This project is buid it will predict the estimated price of the home .The feature that estimated price is dependent on are as follows:-
+Area_type – Describes the area.                                                                           
+Availability –When it can be possessed or when it is ready(categorical and time-series).               
+Location – Where it is located in Bengaluru.                                                               
+Price – Value of the property in lakhs(INR).                                                               
+Size – in BHK or Bedroom (1-10 or more).                                                                   
+Society – to which society it belongs.                                                                     
+Total_sqft – size of the property in sq.ft.                                                               
+Bath – No. of bathrooms.                                                                                   
+Balcony – No. of the balcony.
+
+
 First step of this project is to pre-process the data.Secondly, a model is built using sklearn and linear regression using the above dataset provided in the link.
 
 In the final step of the project webiste is built using HTML,CSS and Javascript which allows user to enter the square feet area of home,bedrooms,etc. When the user will click on the button of predict price python flask server will be called in order to retrieve the predicted price.
