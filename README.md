@@ -13,8 +13,11 @@ Balcony – No. of the balcony.
 
 ![Website](https://user-images.githubusercontent.com/83052989/117424737-bc301400-af3f-11eb-90a4-00dfcfc7d1d0.jpg)
 
-First step of this project is to pre-process the data.Secondly, a model is built using sklearn and linear regression using the above dataset provided in the link.
-
+First step of this project is to pre-process the data.we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc.![Remove_Outlier](https://user-images.githubusercontent.com/83052989/117435290-521d6c00-af4b-11eb-8259-da90a87902bc.png)
+![Remove_Outliers](https://user-images.githubusercontent.com/83052989/117435303-55b0f300-af4b-11eb-83e6-a6f55215f51a.jpg)
+                          
+Secondly, a model is built using sklearn and linear regression using the dataset provided.
+Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.
 In the final step of the project webiste is built using HTML,CSS and Javascript which allows user to enter the square feet area of home,bedrooms,etc. When the user will click on the button of predict price python flask server will be called in order to retrieve the predicted price.
 
 Almost all data science concepts are covered which includes feature engineering,outlier detection and removal, dimensionality reduction and Grid Search CV for hyperparameter tuning.
