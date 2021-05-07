@@ -9,7 +9,7 @@ Almost all data science concepts are covered which includes feature engineering,
 
 
 ##FEATURE                                                                                                   
-Area_type – Describes the area.
+Area_type – Describes the area.                                                                           
 Availability –When it can be possessed or when it is ready(categorical and time-series).
 Location – Where it is located in Bengaluru.                                                               
 Price – Value of the property in lakhs(INR).                                                               
