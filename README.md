@@ -1,6 +1,6 @@
 # House-Price-Prediction
 ## INTRODUCTION
-Buying a home, espicially in a city like Bengaluru is very challenging.The chellenges is like it is not possible for a person to go every single place in the city and check the price of the home that is also dependent on various factors so to overcome this.This project is buid it will predict the estimated price of the home .The feature that estimated price is dependent on are as follows:-                   
+Buying a home, espicially in a city like Bengaluru is very challenging.The chellenges is like it is not possible for a person to go every single place in the city and check the price of the home that is also dependent on various factors so to overcome this.This project is buid it will predict the estimated price of the home .The ## feature that estimated price is dependent on are as follows:-                   
 Area_type – Describes the area.                                                                           
 Availability –When it can be possessed or when it is ready(categorical and time-series).               
 Location – Where it is located in Bengaluru.                                                               
